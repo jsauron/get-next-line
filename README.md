@@ -1,7 +1,7 @@
 # GET NEXT LINE
   
-Get Next Line is a function that reads a file line by line
-It is an individual project at 42 school
+* *Get Next Line is a function that reads a file line by line*
+* *It is an individual project at 42 school*
 
 ## Built With
 
