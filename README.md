@@ -13,7 +13,7 @@ Return -1 when an error occurs
  HOW TO USE IT
  
 Create a main.c
-Git clone 
+Git clone https://github.com/jsauron/get-next-line.git 
 cd GNL
 gcc main.c get_next_line.c libft/libft.a
 /a.out example.txt
